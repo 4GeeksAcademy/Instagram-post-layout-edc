@@ -1,0 +1,45 @@
+.post-icons{
+    display: flex;
+    padding-top: 1rem;
+    justify-content: space-between;
+}
+.post-icons i{
+   font-size: 2rem; 
+}
+.left-icons{
+    display: flex;
+    gap: 1rem;
+}
+.post{
+    padding: 5 30 5 30;
+ height: 600px;
+ width: 600px;
+    background-color: white;   
+}
+.post-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    background-color: black;
+    height: 100vh;
+}
+.body{
+    background-color: black;
+    width: max-content;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-1{
+    display: flex;  
+    align-items: center;
+    gap: 15px;
+}
+.fa-html5{
+    font-size: 4rem;
+}
+.fa-solid{
+    font-size: 3rem;
+}
